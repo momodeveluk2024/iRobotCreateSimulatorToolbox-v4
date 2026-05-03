@@ -1,0 +1,8 @@
+*.asv
+*.p
+*.mex*
+slprj/
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.log
