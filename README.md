@@ -2,7 +2,7 @@
 
 A comprehensive MATLAB-based simulator for the iRobot Create® platform. This toolbox allows you to simulate, visualize, and test autonomous control programs in a customizable virtual environment.
 
-![Simulator Screenshot](https://raw.githubusercontent.com/username/repository/main/Documentation/simulator_preview.png) *(Note: Replace with actual screenshot after upload)*
+![Simulator Screenshot](Documentation/simulator_preview.png)
 
 ## 🚀 Features
 
